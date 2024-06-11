@@ -1,0 +1,32 @@
+_repo: The-whys-and-wherefores-of-navigation_73652
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradford, Gershom
+    birthdate: 1879
+    deathdate: 1978
+    gutenberg_agent_id: '57120'
+    url: http://www.gutenberg.org/2009/agents/57120
+description: ''
+gutenberg_issued: '2024-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73652'
+  lccn: '18012928'
+language: en
+pgterms:marc905: 20140221030912bradford
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Carol Brown, Chris Curnow and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bD. Van Nostrand Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Navigation'
+- !lcc 'VK'
+- GITenberg
+title: The whys and wherefores of navigation
+url: http://www.gutenberg.org/ebooks/73652
